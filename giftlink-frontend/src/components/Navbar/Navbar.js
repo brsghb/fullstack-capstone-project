@@ -13,6 +13,12 @@ export default function Navbar() {
                     <li className="nav-item">
                         <a className="nav-link" href="/app">Gifts</a> {/* Updated Link */}
                     </li>
+                    <li className="nav-item">
+                        <a className="nav-link" href="/app/login">Login</a> {/* Login Button */}
+                    </li>
+                    <li className="nav-item">
+                        <a className="nav-link" href="/app/register">Register</a> {/* Updated Link */}
+                    </li>
                 </ul>
             </div>
         </nav>
